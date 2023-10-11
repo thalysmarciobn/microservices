@@ -5,4 +5,10 @@
 
 ## Sobre
 
- Este é um **Devlog** sobre a minha especialização em microserviços, aqui terá acesso a todo o progresso em microserviços em **Java Spring** e **ASP NET Core**, qualuqer um pode ter acesso ao servidor do **Discord** para dúvidas e feedbacks sobre o projeto.
+ Este é um **Devlog** sobre a minha especialização em microserviços, aqui terá acesso a todo o progresso em microserviços em **Kotlin** usando o  **Spring** e **ASP NET Core**, qualuqer um pode ter acesso ao servidor do **Discord** para dúvidas e feedbacks sobre o projeto.
+ 
+## Spring, Kotlin
+
+[![CodeFactor](https://www.codefactor.io/repository/github/thalysmarciobn/microservices_spring/badge)](https://www.codefactor.io/repository/github/thalysmarciobn/microservices_spring)
+
+[Repositório Github](https://github.com/thalysmarciobn/microservices_spring)
