@@ -1,4 +1,4 @@
-# Micro Serviços - Dev log
+# Micro Serviços - Devlog
 
 [![Discord chat](https://img.shields.io/discord/1159121909087215666?logo=discord)](https://discord.gg/DJNFCcmk7R)
 
@@ -11,12 +11,13 @@
 
 [Repositório Github](https://github.com/thalysmarciobn/microservices_front)
 
-## ASP Net Core
+## ASP NET Core
 
 https://discord.gg/DJNFCcmk7R
 
-### Diagrama
-....
+#### Diagrama
+
+![11-10-23](https://raw.githubusercontent.com/thalysmarciobn/microservices/main/diagrama/11-10-23-net-core.png)
 
 ## Spring, Kotlin
 
