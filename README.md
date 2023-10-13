@@ -17,7 +17,7 @@ https://discord.gg/DJNFCcmk7R
 
 #### Diagrama
 
-![11-10-23](https://raw.githubusercontent.com/thalysmarciobn/microservices/main/diagrama/11-10-23-net-core.png)
+![12-10-23](https://raw.githubusercontent.com/thalysmarciobn/microservices/main/diagrama/12-10-23.png)
 
 ## Spring, Kotlin
 
